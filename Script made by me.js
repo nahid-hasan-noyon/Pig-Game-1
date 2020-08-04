@@ -98,7 +98,7 @@ function otherPlayer()
     document.querySelector('.player-1-panel').classList.toggle('active');
     document.querySelector('.player-2-panel').classList.toggle('active');
     
-    //document.querySelector('.dice').style.display = 'none';
+    //document.querySelector('.dice').style.display = 'none'; bjksdc
     rollClicked = false;
 
 }
